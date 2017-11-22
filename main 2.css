@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+  <metcharset=utf-8>
+  <title>tabbladtekst</title>
+</head>
+
+<body>
+  <header>
+    <a href="/"><img src=logo.png alt="home"></a>
+    <hgroup>
+    <h1>titel<h/1>
+    <h2>subtitle</h2>
+    </hgroup>
+  </header>
+  <nav>
+    <h2>menu</h2>
+      <ul>
+        <li>home</li>
+        <li><a href="pagina!.html"></li>
+        <li><a href="pagina!.html"></li>
+      </ul>
+  </nav>
+  <article>
+    <h2>kop1</h2>
+    <p>lorum ipsom...</p>
+  </article>
+  <article>
+    <h2>kop2</h2>
+    <p>lorum ipsom...</p>
+  </article>
+
+  <footer>
+    <p>Copyrigth by Johan Smit. All rights reserved.
+    Contact me for more information</p>
+  </footer>
+</body>
+</html>
